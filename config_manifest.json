@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "update",
+  "zipUrl": "https://raw.githubusercontent.com/man-mj/mjnet/main/mtkConfig.zip",
+  "changelog": "• Update server list\n• Improve stability"
+}
