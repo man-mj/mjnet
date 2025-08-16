@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "update",
-  "zipUrl": "https://raw.githubusercontent.com/man-mj/mjnet/master/mtkConfig.zip",
-  "changelog": "• Update server list\n• Improve stability"
+  "versionCode": 2,
+  "versionName": "2",
+  "hsUrl": "https://raw.githubusercontent.com/man-mj/mjnet/main/mtk.hs",
+  "changelog": "เพิ่มเซิร์ฟเวอร์สิงคโปร์, ปรับแต่งเครือข่าย"
 }
